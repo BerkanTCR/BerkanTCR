@@ -1,4 +1,4 @@
-# 👋 Welkom op mijn GitHub!
+# Welkom op mijn GitHub!
 
 ## Wie ben ik?
 
@@ -69,14 +69,6 @@ Mijn eigen portfolio waarin ik mijn projecten, vaardigheden en ontwikkeling als 
 
 ---
 
-## 📈 GitHub Statistieken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOUW_GITHUB_NAAM\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOUW_GITHUB_NAAM\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
-
 ## 🎯 Mijn doel
 
 Ik wil mezelf blijven ontwikkelen als software developer door praktijkervaring op te doen, nieuwe technieken te leren en projecten te bouwen waar ik trots op kan zijn.
@@ -87,5 +79,5 @@ Ik wil mezelf blijven ontwikkelen als software developer door praktijkervaring o
 
 ## 📫 Contact
 
-* 🌐 Portfolio: *(jouw portfolio)*
-* 💼 LinkedIn: *(voeg je zelf toe)*
+* 🌐 Portfolio: https://berkantcr.github.io/portfolio-website-van-berkan/
+* 💼 LinkedIn: 
