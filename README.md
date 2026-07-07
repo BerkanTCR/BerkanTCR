@@ -46,6 +46,8 @@ Elke nieuwe technologie zie ik als een kans om mijn kennis uit te breiden en mez
 
 Een interactieve leeromgeving gebouwd met React waarin gebruikers op een overzichtelijke manier kennis kunnen opdoen.
 
+https://berkantcr.github.io/Examenopdracht-van-Berkan-en-Lukasz/
+
 ### 🗝️ PHP Escaperoom
 
 Een escaperoom ontwikkeld in PHP waarbij logica, puzzels en programmeervaardigheden samenkomen.
