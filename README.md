@@ -4,7 +4,7 @@
 
 Hoi! Ik ben **Berkan**, tweedejaars Software Developer (MBO 4) aan het Techniek College Rotterdam.
 
-Voor mij draait programmeren om één ding: **leren door te bouwen**. Ik vind het leuk om nieuwe technologieën uit te proberen en mezelf telkens uit te dagen met projecten die nét buiten mijn comfortzone liggen. Of het nu gaat om een interactieve React-applicatie, een PHP-project of een compleet nieuwe taal zoals Python, ik geloof dat je het meeste leert door het gewoon te doen.
+Voor mij draait programmeren om één ding: **leren door te bouwen**. Ik vind het leuk om nieuwe technologieën uit te proberen en mezelf telkens uit te dagen met projecten die nét buiten mijn comfortzone liggen. Of het nu gaat om een interactieve React-applicatie, of een compleet nieuwe taal zoals Python, ik geloof dat je het meeste leert door het gewoon te doen.
 
 ---
 
