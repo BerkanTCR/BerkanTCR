@@ -48,6 +48,9 @@ Een interactieve leeromgeving gebouwd met React waarin gebruikers op een overzic
 
 https://berkantcr.github.io/Examenopdracht-van-Berkan-en-Lukasz/
 
+<img width="1917" height="692" alt="image" src="https://github.com/user-attachments/assets/bd4494f0-b71a-4abc-957d-578bc698229c" />
+
+
 ### 🗝️ PHP Escaperoom
 
 Een escaperoom ontwikkeld in PHP waarbij logica, puzzels en programmeervaardigheden samenkomen.
