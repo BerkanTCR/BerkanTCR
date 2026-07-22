@@ -42,7 +42,7 @@ Elke nieuwe technologie zie ik als een kans om mijn kennis uit te breiden en mez
 
 ## 🚀 Projecten waar ik trots op ben
 
-### 📚 React Leerwebsite
+### <img width="1280" height="1139" alt="React-icon svg" src="https://github.com/user-attachments/assets/214dc3aa-d6f3-41c2-b902-9696f8cbb341" /> React Leerwebsite
 
 Een interactieve leeromgeving gebouwd met React waarin gebruikers op een overzichtelijke manier kennis kunnen opdoen.
 
