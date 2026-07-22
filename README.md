@@ -52,13 +52,21 @@ https://berkantcr.github.io/Examenopdracht-van-Berkan-en-Lukasz/
 
 Een escaperoom ontwikkeld in PHP waarbij logica, puzzels en programmeervaardigheden samenkomen.
 
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/ee82d186-0143-4650-928c-1c7ee0b6e93a" />
+
+
 ### ❤️ Website voor een goed doel
 
 Een website ontworpen en ontwikkeld om een goed doel online te ondersteunen met een professionele uitstraling.
 
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/051e5d40-c570-4c4e-9b75-3adfcc2bf35d" />
+
+
 ### 🌐 Portfolio Website
 
 Mijn eigen portfolio waarin ik mijn projecten, vaardigheden en ontwikkeling als software developer laat zien.
+
+https://berkantcr.github.io/portfolio-website-van-berkan/
 
 ---
 
